@@ -1,0 +1,34 @@
+[
+  {
+    "sr": "1",
+    "column2": "A",
+    "column3": "Bombay",
+    "category": "Private",
+    "available": "Yes",
+    "column6": "CS"
+  },
+  {
+    "sr": "2",
+    "column2": "S",
+    "column3": "Pune",
+    "category": "Private",
+    "available": "No",
+    "column6": "CX"
+  },
+  {
+    "sr": "3",
+    "column2": "R",
+    "column3": "Kolkata",
+    "category": "Private",
+    "available": "Yes",
+    "column6": "B"
+  },
+  {
+    "sr": "4",
+    "column2": "S",
+    "column3": "Ahmedabad",
+    "category": "Private",
+    "available": "No",
+    "column6": "CS"
+  }
+]
