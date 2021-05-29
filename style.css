@@ -10,13 +10,14 @@ body {
 }
 
 #userPhoto {
-	width: 96px;
-	height: 96px;
+	width: 136px;
+	height: 136px;
+	border-radius:50%;
 	display: block;
 	margin: 35px auto 20px;
-	-webkit-box-shadow: 0px 6px 0px 0px rgba(34, 34, 34, 1);
-	-moz-box-shadow: 0px 6px 0px 0px rgba(34, 34, 34, 1);
-	box-shadow: 0px 6px 0px 0px rgba(34, 34, 34, 1);
+	-webkit-box-shadow: 0px 6px 0px 0px rgba(112, 112, 112, 1);
+	-moz-box-shadow: 0px 6px 0px 0px rgba(112, 112, 112, 1);
+	box-shadow: 0px 6px 0px 0px rgba(112, 112, 112, 1);
 	transition: all 0.15s;
 }
 
